@@ -76,6 +76,7 @@ form {
 #city {
     background-color: #444140;
     font-size: 32px;
+    align-items: center;
 }
 
 #temp {
@@ -84,6 +85,7 @@ form {
     flex-direction: column;
     flex-wrap: wrap;
     justify-content: space-evenly;
+    align-items: center;
 }
 
 #humide {
@@ -92,6 +94,7 @@ form {
     flex-direction: column;
     flex-wrap: wrap;
     justify-content: space-evenly;
+    align-items: center;
 }
 
 #wind {
@@ -100,8 +103,10 @@ form {
     flex-direction: column;
     flex-wrap: wrap;
     justify-content: space-evenly;
+    align-items: center;  
 }
 
 #ciel {
     background-color: #444140;
+    align-items: center;
 }
